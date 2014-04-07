@@ -7,10 +7,10 @@ concept to understand the efficiency and limitations of Mobile Augmented Reality
 
 Team members:
 
-Sanat Rath
-Samrat Ambadekar
-Celeste Mason
-Nishant Shah
+* Sanat Rath
+* Samrat Ambadekar
+* Celeste Mason
+* Nishant Shah
 
 
 Dependencies:
